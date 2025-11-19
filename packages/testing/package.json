@@ -77,7 +77,7 @@
     "tsc": "tshy"
   },
   "dependencies": {
-    "@inquirer/type": "^3.0.8",
+    "@inquirer/type": "^0.1.0",
     "ansi-escapes": "^4.3.2",
     "mute-stream": "^2.0.0"
   },
