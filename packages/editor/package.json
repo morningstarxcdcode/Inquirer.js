@@ -74,8 +74,8 @@
     "tsc": "tshy"
   },
   "dependencies": {
-    "@inquirer/core": "^10.1.15",
-    "@inquirer/external-editor": "^1.0.1",
+    "@inquirer/core": "^1.0.0",
+    "@inquirer/external-editor": "^1.0.0",
     "@inquirer/type": "^3.0.8"
   },
   "devDependencies": {
