@@ -85,7 +85,7 @@
     "@inquirer/password": "^4.0.17",
     "@inquirer/rawlist": "^4.1.5",
     "@inquirer/search": "^3.1.0",
-    "@inquirer/select": "^4.3.1"
+    "@inquirer/select": "^0.1.0"
   },
   "devDependencies": {
     "@arethetypeswrong/cli": "^0.18.2",
